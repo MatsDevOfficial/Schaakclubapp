@@ -10,4 +10,4 @@
 
 ## Reporting a Vulnerability
 
-Report it to me
+Report it to me [Here](https://github.com/MatsDevOfficial/Schaakclubapp/security/advisories/new)
