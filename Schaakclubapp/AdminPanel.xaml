@@ -1,8 +1,0 @@
-﻿<Window x:Class="ChessClubApp.AdminPanel"
-        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="Beheerderspaneel" Height="300" Width="400">
-    <Grid Margin="10">
-        <TextBlock Text="Welkom in het beheerderspaneel!" FontSize="20" HorizontalAlignment="Center" />
-    </Grid>
-</Window>
