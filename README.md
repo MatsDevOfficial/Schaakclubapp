@@ -2,6 +2,8 @@
 > APP IS NOT STABLE!
 
 # Schaakclubapp
+
+[![.NET Core Desktop](https://github.com/MatsDevOfficial/Schaakclubapp/actions/workflows/dotnet-desktop.yml/badge.svg)](https://github.com/MatsDevOfficial/Schaakclubapp/actions/workflows/dotnet-desktop.yml)
   # Security Policy
 
 ## Supported Versions
