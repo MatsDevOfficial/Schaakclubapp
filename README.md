@@ -1,3 +1,6 @@
+[!CAUTION]
+APP IS NOT STABLE!
+
 # Schaakclubapp
   # Security Policy
 
