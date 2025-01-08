@@ -1,5 +1,5 @@
-[!CAUTION]
-APP IS NOT STABLE!
+> [!CAUTION]
+> APP IS NOT STABLE!
 
 # Schaakclubapp
   # Security Policy
