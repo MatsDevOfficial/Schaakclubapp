@@ -13,4 +13,5 @@
 Report it to me [Here](https://github.com/MatsDevOfficial/Schaakclubapp/security/advisories/new)
 
 ## TODO
-- [x] [#1](https://github.com/MatsDevOfficial/Schaakclubapp/issues/1)
+- [ ] https://github.com/MatsDevOfficial/Schaakclubapp/issues/1
+
