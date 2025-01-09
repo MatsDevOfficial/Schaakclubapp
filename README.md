@@ -1,5 +1,5 @@
-> [!CAUTION]
-> APP IS NOT STABLE!
+> [!WARNING]
+> Website is currently in open béta, stable releases are not released yet
 
 # Schaakclubapp
   # Security Policy
