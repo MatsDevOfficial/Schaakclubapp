@@ -1,4 +1,9 @@
+> [!CAUTION]
+> APP IS NOT STABLE!
+
 # Schaakclubapp
+
+[![.NET Core Desktop](https://github.com/MatsDevOfficial/Schaakclubapp/actions/workflows/dotnet-desktop.yml/badge.svg)](https://github.com/MatsDevOfficial/Schaakclubapp/actions/workflows/dotnet-desktop.yml)
   # Security Policy
 
 ## Supported Versions
@@ -13,4 +18,5 @@
 Report it to me [Here](https://github.com/MatsDevOfficial/Schaakclubapp/security/advisories/new)
 
 ## TODO
-- [ ] Get back to work
+- [ ] GET THOSE ERRORS AWAY!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
