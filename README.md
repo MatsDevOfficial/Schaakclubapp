@@ -18,5 +18,5 @@
 Report it to me [Here](https://github.com/MatsDevOfficial/Schaakclubapp/security/advisories/new)
 
 ## TODO
-- [ ] https://github.com/MatsDevOfficial/Schaakclubapp/issues/1
+- [ ] GET THOSE ERRORS AWAY!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
