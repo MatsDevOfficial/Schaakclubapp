@@ -14,6 +14,7 @@
                 <li><a href="#home">Home</a></li>
                 <li><a href="#agenda">Agenda</a></li>
                 <li><a href="#rsvp">RSVP</a></li>
+                <li><a href="#admin" id="adminLink">Beheerderspaneel</a></li>
             </ul>
         </nav>
     </header>
@@ -41,8 +42,24 @@
         </form>
     </section>
 
+    <section id="adminPanel">
+        <h2>Beheerderspaneel</h2>
+        <form id="addEventForm">
+            <label for="eventName">Evenementnaam:</label>
+            <input type="text" id="eventName" name="eventName" required>
+            <label for="eventDate">Datum:</label>
+            <input type="date" id="eventDate" name="eventDate" required>
+            <button type="submit" class="btn">Evenement toevoegen</button>
+        </form>
+
+        <h3>Evenementen beheren</h3>
+        <ul id="adminEventList">
+            <!-- Evenementen worden hier dynamisch geladen -->
+        </ul>
+    </section>
+
     <footer>
-        <p>&copy; 2025 Schaakclub</p>
+        <p>&copy; 2025 Schaakclub Openbaar Lyceum Zeist</p>
     </footer>
 
     <script src="js/app.js"></script>
